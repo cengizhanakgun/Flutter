@@ -1,0 +1,5 @@
+*.groovy linguist-detectable=true
+*.js linguist-detectable=false
+*.html linguist-detectable=false
+*.cmake linguist-detectable=false
+*.cpp linguist-detectable=false
